@@ -1,7 +1,7 @@
-var express = require('express');
-var logger = require('../utils/logger');
+let express = require('express');
+let logger = require('../utils/logger');
 
-var router = express.Router();
+let router = express.Router();
 router.use('/demo-test', function (req, res, next) {
     res.render('demo',{pageTitle:'Vertical centering with css'});
 });
