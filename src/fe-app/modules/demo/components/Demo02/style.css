@@ -1,0 +1,10 @@
+.wrap-two {
+  display: table;
+  .content-two {
+    height: 100px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #dcdcdc;
+  }
+}

@@ -1,14 +1,14 @@
 import './style.css';
 import React,{Component} from 'react';
 
-class DemoOne extends Component {
+class Demo01 extends Component {
   constructor(props) {
     super(props);
   }
   render() {
     return (
-      <div className="wrap">
-          <div className="content">
+      <div className="wrap-one">
+          <div className="content-one">
               Hello React!
           </div>
       </div>
@@ -16,4 +16,4 @@ class DemoOne extends Component {
   }
 }
 
-export default DemoOne;
+export default Demo01;

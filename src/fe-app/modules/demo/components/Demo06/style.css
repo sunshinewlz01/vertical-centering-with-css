@@ -1,0 +1,15 @@
+.wrap06 {
+  height: 200px;
+  background-color: #ccc;
+  .floater {
+    float: left;
+    height: 100px;
+    width: 100%;
+    margin-bottom: -15px;
+  }
+  .content06 {
+    text-align: center;
+    clear: both;
+    background-color: #dcdcdc;
+  }
+}

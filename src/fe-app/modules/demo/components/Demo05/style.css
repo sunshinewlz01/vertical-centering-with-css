@@ -1,0 +1,9 @@
+.wrap05 {
+  padding: 5% 0;
+  background-color: #ccc;
+  .content05 {
+    text-align: center;
+    padding: 10% 0;
+    background-color: #dcdcdc;
+  }
+}
