@@ -4,6 +4,9 @@
   "author": "leizhewei8702@gmail.com",
   "license": "MIT",
   "description": "methods for vertical centering with css",
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors --host 127.0.0.1 --port 8080"
+  },
   "dependencies": {
     "ejs": "^2.5.6",
     "ejs-locals": "^1.0.2",
